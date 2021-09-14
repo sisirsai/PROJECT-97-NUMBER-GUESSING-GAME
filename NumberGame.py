@@ -3,7 +3,7 @@ randomNumber = random.randint(1,10)
 chances = 1
 print('Hello')
 print('Welcome to Number Guessing game ')
-print('Guess a number between 1 abd 10 (Including 1 and 10)')
+print('Guess a number between 1 and 10 (Including 1 and 10)')
 print('If the number entered by you is equal')
 print('to the number randomly genereted by')
 print('computer then you are the winner')
